@@ -1,0 +1,1 @@
+[null,{"name":"test","permissions":"NONE","restriction":"1","_id":"fPvXF","actions":[{"channel":"0","varName":"","message":"${member} hello","storage":"0","varName2":"","iffalse":"0","iffalseVal":"","name":"Send Message"}],"comType":"0"}]
